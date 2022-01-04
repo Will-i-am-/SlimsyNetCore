@@ -1,0 +1,260 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Umbraco9
+build_property.RootNamespace = Umbraco9
+build_property.ProjectDir = C:\Users\William\source\repos\Umbraco9\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\William\source\repos\Umbraco9
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/Breadcrumb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xCcmVhZGNydW1iLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xFZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/Empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xFbXB0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/Gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xHYWxsZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/ListAncestorsFromCurrentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xMaXN0QW5jZXN0b3JzRnJvbUN1cnJlbnRQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/ListChildPagesFromChangeableSource.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xMaXN0Q2hpbGRQYWdlc0Zyb21DaGFuZ2VhYmxlU291cmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/ListChildPagesFromCurrentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xMaXN0Q2hpbGRQYWdlc0Zyb21DdXJyZW50UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/ListChildPagesOrderedByDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xMaXN0Q2hpbGRQYWdlc09yZGVyZWRCeURhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/ListChildPagesOrderedByName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xMaXN0Q2hpbGRQYWdlc09yZGVyZWRCeU5hbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/ListChildPagesOrderedByProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xMaXN0Q2hpbGRQYWdlc09yZGVyZWRCeVByb3BlcnR5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/ListChildPagesWithDoctype.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xMaXN0Q2hpbGRQYWdlc1dpdGhEb2N0eXBlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/ListDescendantsFromCurrentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xMaXN0RGVzY2VuZGFudHNGcm9tQ3VycmVudFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/ListImagesFromMediaFolder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xMaXN0SW1hZ2VzRnJvbU1lZGlhRm9sZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/LoginStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xMb2dpblN0YXR1cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/MultinodeTree-picker.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xNdWx0aW5vZGVUcmVlLXBpY2tlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/Navigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xOYXZpZ2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/RegisterMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xSZWdpc3Rlck1lbWJlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/PartialViewMacros/Templates/SiteMap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFBhcnRpYWxWaWV3TWFjcm9zXFRlbXBsYXRlc1xTaXRlTWFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/UmbracoBackOffice/AuthorizeUpgrade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFVtYnJhY29CYWNrT2ZmaWNlXEF1dGhvcml6ZVVwZ3JhZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/UmbracoBackOffice/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFVtYnJhY29CYWNrT2ZmaWNlXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/UmbracoBackOffice/Preview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFVtYnJhY29CYWNrT2ZmaWNlXFByZXZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/UmbracoInstall/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFVtYnJhY29JbnN0YWxsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/UmbracoWebsite/NoNodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFVtYnJhY29XZWJzaXRlXE5vTm9kZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/bin/Debug/net5.0/umbraco/UmbracoWebsite/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcYmluXERlYnVnXG5ldDUuMFx1bWJyYWNvXFVtYnJhY29XZWJzaXRlXE5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/Breadcrumb.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcQnJlYWRjcnVtYi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcRWRpdFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/Empty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcRW1wdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/Gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcR2FsbGVyeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/ListAncestorsFromCurrentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdEFuY2VzdG9yc0Zyb21DdXJyZW50UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/ListChildPagesFromChangeableSource.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdENoaWxkUGFnZXNGcm9tQ2hhbmdlYWJsZVNvdXJjZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/ListChildPagesFromCurrentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdENoaWxkUGFnZXNGcm9tQ3VycmVudFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/ListChildPagesOrderedByDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdENoaWxkUGFnZXNPcmRlcmVkQnlEYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/ListChildPagesOrderedByName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdENoaWxkUGFnZXNPcmRlcmVkQnlOYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/ListChildPagesOrderedByProperty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdENoaWxkUGFnZXNPcmRlcmVkQnlQcm9wZXJ0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/ListChildPagesWithDoctype.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdENoaWxkUGFnZXNXaXRoRG9jdHlwZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/ListDescendantsFromCurrentPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdERlc2NlbmRhbnRzRnJvbUN1cnJlbnRQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/ListImagesFromMediaFolder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTGlzdEltYWdlc0Zyb21NZWRpYUZvbGRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/LoginStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTG9naW5TdGF0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/MultinodeTree-picker.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTXVsdGlub2RlVHJlZS1waWNrZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/Navigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcTmF2aWdhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/RegisterMember.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcUmVnaXN0ZXJNZW1iZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/PartialViewMacros/Templates/SiteMap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xQYXJ0aWFsVmlld01hY3Jvc1xUZW1wbGF0ZXNcU2l0ZU1hcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/UmbracoBackOffice/AuthorizeUpgrade.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xVbWJyYWNvQmFja09mZmljZVxBdXRob3JpemVVcGdyYWRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/UmbracoBackOffice/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xVbWJyYWNvQmFja09mZmljZVxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/UmbracoBackOffice/Preview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xVbWJyYWNvQmFja09mZmljZVxQcmV2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/UmbracoInstall/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xVbWJyYWNvSW5zdGFsbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/UmbracoWebsite/NoNodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xVbWJyYWNvV2Vic2l0ZVxOb05vZGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/umbraco/UmbracoWebsite/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcdW1icmFjb1xVbWJyYWNvV2Vic2l0ZVxOb3RGb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/Views/Homepage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcVmlld3NcSG9tZXBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/Views/Partials/blocklist/default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcVmlld3NcUGFydGlhbHNcYmxvY2tsaXN0XGRlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/Views/Partials/grid/bootstrap3-fluid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcVmlld3NcUGFydGlhbHNcZ3JpZFxib290c3RyYXAzLWZsdWlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/Views/Partials/grid/bootstrap3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcVmlld3NcUGFydGlhbHNcZ3JpZFxib290c3RyYXAzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/Views/Partials/grid/editors/base.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcVmlld3NcUGFydGlhbHNcZ3JpZFxlZGl0b3JzXGJhc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/Views/Partials/grid/editors/embed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcVmlld3NcUGFydGlhbHNcZ3JpZFxlZGl0b3JzXGVtYmVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/Views/Partials/grid/editors/macro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcVmlld3NcUGFydGlhbHNcZ3JpZFxlZGl0b3JzXG1hY3JvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/Views/Partials/grid/editors/media.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcVmlld3NcUGFydGlhbHNcZ3JpZFxlZGl0b3JzXG1lZGlhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/Views/Partials/grid/editors/rte.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcVmlld3NcUGFydGlhbHNcZ3JpZFxlZGl0b3JzXHJ0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/Views/Partials/grid/editors/textstring.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcVmlld3NcUGFydGlhbHNcZ3JpZFxlZGl0b3JzXHRleHRzdHJpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/William/source/repos/Umbraco9/TestSite/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGVzdFNpdGVcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

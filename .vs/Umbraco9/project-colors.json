@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4577ce78-689c-49c0-ae34-0a1cf2891f07": {
+      "ProjectGuid": "4577ce78-689c-49c0-ae34-0a1cf2891f07",
+      "DisplayName": "Umbraco9",
+      "ColorIndex": 0
+    },
+    "410a5a0f-677c-48f5-a02d-e2df7b5310f6": {
+      "ProjectGuid": "410a5a0f-677c-48f5-a02d-e2df7b5310f6",
+      "DisplayName": "Slimsy",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

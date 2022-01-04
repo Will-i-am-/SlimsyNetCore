@@ -50,6 +50,10 @@
             "Umbraco.Cms.Core": {
               "target": "Package",
               "version": "[9.1.2, )"
+            },
+            "Umbraco.Cms.Web.Common": {
+              "target": "Package",
+              "version": "[9.1.2, )"
             }
           },
           "imports": [

@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Umbraco.Cms.Core" Version="9.1.2" />
+    <PackageReference Include="Umbraco.Cms.Web.Common" Version="9.1.2" />
   </ItemGroup>
 
 </Project>

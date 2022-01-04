@@ -10,3 +10,11 @@
 <h1>Hello</h1>
 
 <p>@slimsyService.GetWidthStep()</p>
+
+<div style="max-width: 700px; width: 100%;">
+    @if (Model.Picture != null)
+    {
+        <img srcset="@slimsyService.GetSrcSetUrls(Model.Picture, 500, 0)" style="max-width: 100%; width: 100%" sizes="700px"/>
+    }
+    
+</div>

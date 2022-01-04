@@ -1195,11 +1195,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\William\\source\\repos\\Umbraco9\\Umbraco9.csproj",
+      "projectUniqueName": "Q:\\Work\\Sites\\SlimsyNetCore\\Umbraco9.csproj",
       "projectName": "Umbraco9",
-      "projectPath": "C:\\Users\\William\\source\\repos\\Umbraco9\\Umbraco9.csproj",
+      "projectPath": "Q:\\Work\\Sites\\SlimsyNetCore\\Umbraco9.csproj",
       "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\William\\source\\repos\\Umbraco9\\obj\\",
+      "outputPath": "Q:\\Work\\Sites\\SlimsyNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1223,8 +1223,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\William\\source\\repos\\Umbraco9\\Slimsy\\Slimsy.csproj": {
-              "projectPath": "C:\\Users\\William\\source\\repos\\Umbraco9\\Slimsy\\Slimsy.csproj"
+            "Q:\\Work\\Sites\\SlimsyNetCore\\Slimsy\\Slimsy.csproj": {
+              "projectPath": "Q:\\Work\\Sites\\SlimsyNetCore\\Slimsy\\Slimsy.csproj"
             }
           }
         }

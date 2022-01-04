@@ -10,5 +10,11 @@
             this._slimsyOptions = slimsyOptions;
             this._logger = logger;
         }
+
+        public int GetWidthStep()
+        {
+            return _slimsyOptions.WidthStep;
+        }
+
     }
 }

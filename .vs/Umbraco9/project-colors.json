@@ -10,6 +10,11 @@
       "ProjectGuid": "410a5a0f-677c-48f5-a02d-e2df7b5310f6",
       "DisplayName": "Slimsy",
       "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 2

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\William\\source\\repos\\Umbraco9\\Slimsy\\Slimsy.csproj": {}
+    "Q:\\Work\\Sites\\SlimsyNetCore\\Slimsy\\Slimsy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\William\\source\\repos\\Umbraco9\\Slimsy\\Slimsy.csproj": {
+    "Q:\\Work\\Sites\\SlimsyNetCore\\Slimsy\\Slimsy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\William\\source\\repos\\Umbraco9\\Slimsy\\Slimsy.csproj",
+        "projectUniqueName": "Q:\\Work\\Sites\\SlimsyNetCore\\Slimsy\\Slimsy.csproj",
         "projectName": "Slimsy",
-        "projectPath": "C:\\Users\\William\\source\\repos\\Umbraco9\\Slimsy\\Slimsy.csproj",
+        "projectPath": "Q:\\Work\\Sites\\SlimsyNetCore\\Slimsy\\Slimsy.csproj",
         "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\William\\source\\repos\\Umbraco9\\Slimsy\\obj\\",
+        "outputPath": "Q:\\Work\\Sites\\SlimsyNetCore\\Slimsy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5,6 +5,7 @@
     public class SlimsyWebConfigOptions : ISlimsyOptions
     {
         private readonly IOptions<SlimsyConfig> _config;
+
         public SlimsyWebConfigOptions(IOptions<SlimsyConfig> config)
         {
             this._config = config;

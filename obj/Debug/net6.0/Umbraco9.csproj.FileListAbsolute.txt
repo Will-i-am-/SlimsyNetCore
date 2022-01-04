@@ -7,3 +7,12 @@ C:\Users\William\source\repos\Umbraco9\obj\Debug\net6.0\Umbraco9.MvcApplicationP
 C:\Users\William\source\repos\Umbraco9\obj\Debug\net6.0\Umbraco9.RazorAssemblyInfo.cache
 C:\Users\William\source\repos\Umbraco9\obj\Debug\net6.0\Umbraco9.RazorAssemblyInfo.cs
 C:\Users\William\source\repos\Umbraco9\obj\Debug\net6.0\Umbraco9.MvcApplicationPartsAssemblyInfo.cs
+Q:\Work\Sites\SlimsyNetCore\obj\Debug\net6.0\Umbraco9.csproj.AssemblyReference.cache
+Q:\Work\Sites\SlimsyNetCore\obj\Debug\net6.0\Umbraco9.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Work\Sites\SlimsyNetCore\obj\Debug\net6.0\Umbraco9.AssemblyInfoInputs.cache
+Q:\Work\Sites\SlimsyNetCore\obj\Debug\net6.0\Umbraco9.AssemblyInfo.cs
+Q:\Work\Sites\SlimsyNetCore\obj\Debug\net6.0\Umbraco9.csproj.CoreCompileInputs.cache
+Q:\Work\Sites\SlimsyNetCore\obj\Debug\net6.0\Umbraco9.MvcApplicationPartsAssemblyInfo.cs
+Q:\Work\Sites\SlimsyNetCore\obj\Debug\net6.0\Umbraco9.MvcApplicationPartsAssemblyInfo.cache
+Q:\Work\Sites\SlimsyNetCore\obj\Debug\net6.0\Umbraco9.RazorAssemblyInfo.cache
+Q:\Work\Sites\SlimsyNetCore\obj\Debug\net6.0\Umbraco9.RazorAssemblyInfo.cs

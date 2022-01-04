@@ -3,10 +3,10 @@
     using global::Slimsy.Configuration;
 
     //https://stackoverflow.com/questions/31453495/how-to-read-appsettings-values-from-a-json-file-in-asp-net-core
-    public class SlimsyStartUp
+    public class Startup
     {
         public IConfiguration Configuration { get; set; }
-        public SlimsyStartUp(IWebHostEnvironment env)
+        public Startup(IWebHostEnvironment env)
         {
             var builder = new ConfigurationBuilder()
                     .SetBasePath(env.ContentRootPath)

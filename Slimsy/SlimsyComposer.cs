@@ -9,12 +9,12 @@
 
     public class SlimsyComposer : IComposer
     {
-        private readonly IOptions<SlimsyConfig> _config;
+        //private readonly IOptions<SlimsyConfig> _config;
 
-        public SlimsyComposer(IOptions<SlimsyConfig> config)
-        {
-            this._config = config;
-        }
+        //public SlimsyComposer(IOptions<SlimsyConfig> config)
+        //{
+        //    this._config = config;
+        //}
 
         public void Compose(IUmbracoBuilder builder)
         {

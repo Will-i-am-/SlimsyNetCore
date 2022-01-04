@@ -2,13 +2,11 @@
 {
     public class SlimsyService
     {
-        private readonly ILogger _logger;
         private readonly ISlimsyOptions _slimsyOptions;
 
-        public SlimsyService(ISlimsyOptions slimsyOptions, ILogger logger)
+        public SlimsyService(ISlimsyOptions slimsyOptions)
         {
             this._slimsyOptions = slimsyOptions;
-            this._logger = logger;
         }
 
         public int GetWidthStep()

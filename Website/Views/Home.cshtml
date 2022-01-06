@@ -1,20 +1,25 @@
-﻿@using Umbraco.Cms.Web.Common.PublishedModels;
-@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage<ContentModels.Home>
+﻿@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage<ContentModels.Home>
 @using ContentModels = Umbraco.Cms.Web.Common.PublishedModels;
 @using Slimsy.Services
-@inject SlimsyService slimsyService;
+@using Slimsy
+@inject SlimsyService _slimsyService;
 @{
 	Layout = null;
 }
 
 <h1>Hello</h1>
 
-<p>@slimsyService.GetWidthStep()</p>
-
 <div style="max-width: 700px; width: 100%;">
-    @if (Model.Picture != null)
+    @*    @if (Model.Picture != null)
     {
-        <img srcset="@slimsyService.GetSrcSetUrls(Model.Picture, 500, 0)" style="max-width: 100%; width: 100%" sizes="700px"/>
-    }
+        <img srcset="@_slimsyService.GetSrcSetUrls(Model.Picture, 500, 0)" style="max-width: 100%; width: 100%" sizes="700px"/>
+
+        <img srcset="@Url.GetSrcSetUrls(Model.Picture, 400, 400)"/>
+    }*@
+
+    @_slimsyService.ConvertImgToResponsive(Model.GetProperty("richText").GetSourceValue().ToString())
     
+    @Html.ConvertImgToResponsive(Model.GetProperty("richText").GetSourceValue().ToString(), renderPicture: true)
+    
+    @Html.ConvertImgToResponsive(Model, "richText")
 </div>

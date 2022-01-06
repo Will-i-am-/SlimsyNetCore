@@ -29,11 +29,6 @@
             this._rteMacroRenderingValueConverter = rteMacroRenderingValueConverter;
         }
 
-        public int GetWidthStep()
-        {
-            return _slimsyOptions.WidthStep;
-        }
-
         /// <summary>
         /// Generate SrcSet attribute value based on a width and height for the image cropped around the focal point using a specific image cropper property alias, output format and optional quality
         /// </summary>

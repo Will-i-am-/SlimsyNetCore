@@ -1,49 +1,18 @@
 ﻿namespace Slimsy.Configuration
 {
-    using Microsoft.Extensions.Options;
+    using Slimsy.Application;
+    using Slimsy.Interfaces;
 
     public class SlimsyWebConfigOptions : ISlimsyOptions
     {
-        private readonly IOptions<SlimsyConfig> _config;
-
-        public SlimsyWebConfigOptions(IOptions<SlimsyConfig> config)
+        public SlimsyWebConfigOptions()
         {
-            this._config = config;
-
-            var slimsyDefaultQuality = this._config.Value.DefaultQuality;
-            if (slimsyDefaultQuality == 0)
-            {
-                slimsyDefaultQuality = 90;
-            }
-
-            var slimsyWidthStep = this._config.Value.WidthStep;
-            if (slimsyWidthStep == 0)
-            {
-                slimsyWidthStep = 160;
-            }
-
-            var slimsyMaxWidth = this._config.Value.MaxWidth;
-            if (slimsyMaxWidth == 0)
-            {
-                slimsyMaxWidth = 2048;
-            }
-
-            var slimsyFormat = this._config.Value.Format;
-            var outputFormat = slimsyFormat ?? "auto";
-
-            var slimsyBgColor = this._config.Value.BackgroundColor;
-            var bgColor = slimsyBgColor != "false" ? slimsyBgColor : string.Empty;
-
-            var domainPrefix = this._config.Value.DomainPrefix;
-            if (string.IsNullOrEmpty(domainPrefix))
-                domainPrefix = string.Empty;
-
-            Format = outputFormat;
-            BackgroundColor = bgColor;
-            DefaultQuality = slimsyDefaultQuality;
-            MaxWidth = slimsyMaxWidth;
-            WidthStep = slimsyWidthStep;
-            DomainPrefix = domainPrefix;
+            Format = SlimsySettings.Instance.Format;
+            BackgroundColor = SlimsySettings.Instance.BackgroundColor;
+            DefaultQuality = SlimsySettings.Instance.DefaultQuality;
+            MaxWidth = SlimsySettings.Instance.MaxWidth;
+            WidthStep = SlimsySettings.Instance.WidthStep;
+            DomainPrefix = SlimsySettings.Instance.DomainPrefix;
         }
 
         public string Format { get; set; }

@@ -6,6 +6,9 @@
     using HtmlAgilityPack;
     using Microsoft.AspNetCore.Html;
     using Newtonsoft.Json;
+    using Slimsy.Enums;
+    using Slimsy.Interfaces;
+    using Slimsy.Models;
     using Umbraco.Cms.Core;
     using Umbraco.Cms.Core.Strings;
     using Umbraco.Cms.Core.Models;
@@ -831,10 +834,5 @@
 
         #endregion
 
-        public enum ImageCropRatioMode
-        {
-            Width,
-            Height
-        }
     }
 }

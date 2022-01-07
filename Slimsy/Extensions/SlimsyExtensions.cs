@@ -1,8 +1,10 @@
-﻿namespace Slimsy
+﻿namespace Slimsy.Extensions
 {
     using Microsoft.AspNetCore.Html;
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
+    using Slimsy.Enums;
+    using Slimsy.Models;
     using Slimsy.Services;
     using Umbraco.Cms.Core;
     using Umbraco.Cms.Core.Models;
@@ -153,7 +155,7 @@
             bool useCropDimensions = false,
             bool cacheBuster = true,
             string furtherOptions = null,
-            SlimsyService.ImageCropRatioMode? ratioMode = null,
+            ImageCropRatioMode? ratioMode = null,
             bool upScale = true,
             bool htmlEncode = true)
         {
@@ -174,7 +176,7 @@
             bool useCropDimensions = false,
             string cacheBusterValue = null,
             string furtherOptions = null,
-            SlimsyService.ImageCropRatioMode? ratioMode = null,
+            ImageCropRatioMode? ratioMode = null,
             bool upScale = true,
             bool htmlEncode = true)
         {

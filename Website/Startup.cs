@@ -29,6 +29,7 @@ namespace Website
         {
             _env = webHostEnvironment ?? throw new ArgumentNullException(nameof(webHostEnvironment));
             _config = config ?? throw new ArgumentNullException(nameof(config));
+
             var builder = new ConfigurationBuilder()
                 .SetBasePath(_env.ContentRootPath)
                 .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);

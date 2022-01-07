@@ -1,4 +1,4 @@
-﻿namespace Slimsy
+﻿namespace Slimsy.Interfaces
 {
     public interface ISlimsyOptions
     {

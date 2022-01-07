@@ -1,0 +1,32 @@
+﻿@inherits Umbraco.Cms.Web.Common.Views.UmbracoViewPage<ContentModels.Injection>
+@using ContentModels = Umbraco.Cms.Web.Common.PublishedModels;
+@using Slimsy.Services
+@inject SlimsyService _slimsyService;
+@{
+	Layout = null;
+}
+
+<style>
+	div {
+        max-width: 500px;
+        width: 100%
+    }
+
+    div > img {
+        width: 100%
+    }
+</style>
+
+<img src="@_slimsyService.GetCropUrl(Model.Picture, 500, 0)"/>
+
+<img src="@_slimsyService.GetCropUrl(Model.Picture, 300, 300)"/>
+
+<img src="@_slimsyService.GetCropUrl(Model.Picture, "Special")"/>
+
+<hr />
+
+<div>
+    <img srcset="@_slimsyService.GetSrcSetUrls(Model.Picture, 500, 500)" sizes="500"/>
+
+    <img srcset="@_slimsyService.GetSrcSetUrls(Model.Picture, "Portrait")" sizes="500"/>
+</div>

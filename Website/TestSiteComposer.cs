@@ -24,7 +24,7 @@
             //});
 
             // option 2: if you want to replace SlimsyOptions with your own class/logic then do that
-            builder.Services.AddUnique<ISlimsyOptions, SlimsyCustomConfigOptions>();
+            //builder.Services.AddUnique<ISlimsyOptions, SlimsyCustomConfigOptions>();
         }
     }
 
